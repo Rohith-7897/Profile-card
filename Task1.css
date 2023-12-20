@@ -28,12 +28,11 @@ section>article:hover{
 }
 section>article>div
 {
-   height: 100px;
+    height: 100px;
     width: 100px;
     border-radius: 50%;
     margin-left: 100px;
     margin-top: 30px;
-        /*image address*/
     background-image: url(https://media.licdn.com/dms/image/D5603AQHVW3DQDWvGqQ/profile-displayphoto-shrink_400_400/0/1695721811291?e=2147483647&v=beta&t=K69g3kGU61CWLTDBqAeLMl1zQ6TnWzxR0Kuxai3wk1c);
     background-position: 115px;
     background-position-y: 7px;
